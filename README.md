@@ -1,8 +1,8 @@
 ## Welcome to our GitHub Page !
 
-Youth initiative for creating Independent Open Source Development environments.
+We are youth initiative for creating Independent Open Source Development environments, workflows & apps !
 
-#### In Wrench We Trust !  [4 now]
+#### In Wrench We Trust !  [for now]
 
 Our page is still a work in progress, we gradually add new content [through GitHub editor](https://github.com/Shyran-Systems/Home/edit/master/README.md) to maintain this website.
 
