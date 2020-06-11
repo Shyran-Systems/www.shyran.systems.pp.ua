@@ -1,10 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Shyran Systems GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Shyran-Systems/shyran.systems/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Youth initiative for creating Independent Open Source Development environments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### In Wrench We Trust !  [4 now]
 
-### Markdown
+Our page is still a work in progress, we gradually add new content [through GitHub editor](https://github.com/Shyran-Systems/Home/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
+
+New content and updates on our mission are coming soon...
+
+
+### Also we use Markdown and other stuff here:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,8 +35,14 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shyran-Systems/shyran.systems/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This Page will use the layout and styles from the Jekyll theme selected in [repository settings](https://github.com/Shyran-Systems/Home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Support
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact GitHub support](https://github.com/contact).
+
+
+##CONTACT:
+### SHYRAN SYSTEMS, OSSI
+Sergii Shyran, Co-Founder
+shyran.systems@gmail.com
