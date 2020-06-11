@@ -4,14 +4,14 @@
 
 #### In Wrench We Trust !  [4 now]
 
-Our page is still a work in progress, we gradually add new content [through GitHub editor](https://github.com/Shyran-Systems/Home/edit/master/README.md) to maintain and preview the content for this website in Markdown files.
+Our page is still a work in progress, we gradually add new content [through GitHub editor](https://github.com/Shyran-Systems/Home/edit/master/README.md) to maintain this website.
 
 New content and updates on our mission are coming soon...
 
 
 ### Also we use Markdown and other stuff here:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling the writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -42,7 +42,8 @@ This Page will use the layout and styles from the Jekyll theme selected in [repo
 Having trouble with Pages? Check out [documentation](https://help.github.com/categories/github-pages-basics/) or [contact GitHub support](https://github.com/contact).
 
 
-##CONTACT:
-### SHYRAN SYSTEMS, OSSI
-Sergii Shyran, Co-Founder
+## CONTACT:
+#### SHYRAN SYSTEMS, OSSI
+Sergii Shyran
+Co-Founder
 shyran.systems@gmail.com
