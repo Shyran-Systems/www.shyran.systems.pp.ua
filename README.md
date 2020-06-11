@@ -43,7 +43,9 @@ Having trouble with Pages? Check out [documentation](https://help.github.com/cat
 
 
 ## CONTACT:
-##### SHYRAN SYSTEMS, OSSI
-**Sergii Shyran**
-Co-Founder
+```markdown
+###### SHYRAN SYSTEMS, OSSI
+**Sergii Shyran**,
+- Co-Founder
 shyran.systems@gmail.com
+```
