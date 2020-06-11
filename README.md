@@ -1,6 +1,6 @@
 ## Welcome to Shyran Systems GitHub Page
 
-### Youth initiative for creating Independent Open Source Development environments.
+Youth initiative for creating Independent Open Source Development environments.
 
 #### In Wrench We Trust !  [4 now]
 
