@@ -18,7 +18,7 @@ Having trouble with Pages? Check out [documentation](https://help.github.com/cat
 
 ###### SHYRAN SYSTEMS, OSSI
 **Sergii Shyran**,
-- Co-Founder
+###### Co-Founder
 shyran.systems@gmail.com
 
 
