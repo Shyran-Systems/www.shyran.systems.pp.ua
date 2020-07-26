@@ -1,6 +1,6 @@
 ## Welcome to Shyran Systems GitHub Page !
 
-We are youth initiative for creating Independent Open Source Development environments, workflows & apps !
+We are youth initiative for creating Independent Open Source Development environments, stacks, workflows & apps !
 
 If you're in any way suggested Shyran Systems GitHub Home Page, make sure you're visiting https://shyran-systems.github.io/Homepage/ .
 
