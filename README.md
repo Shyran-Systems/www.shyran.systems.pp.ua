@@ -16,10 +16,11 @@ Having trouble with this page or another GitHub Page? Check out [documentation](
 
 
 ## CONTACT:
-
-###### SHYRAN SYSTEMS, OSSi
-**Sergii Shyran**,
-###### Co-Founder
-shyran.systems@gmail.com
+**
+SHYRAN SYSTEMS, OSSi
+Sergii Shyran
+Co-Founder
+**
+[shyran.systems@gmail.com](mailto:shyran.systems@gmail.com)
 
 
