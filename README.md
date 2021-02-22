@@ -10,15 +10,12 @@ If you're in any way suggested Shyran Systems Home Page (this page), make sure y
 
 Check out our Codebase and get involved !
 
-#### In Wrench We Trust !  [for now]
-
 Our page is still a work in progress, we gradually add new content through [GitHub Pages](https://shyran-systems.github.io/shyran.systems.pp.ua/), so stay tuned!
 
 New content and updates are coming soon...
 
-
 #### For all Contracts & Enquiries, please contact Serhii Shyran - our Contract Manager:
 
-**SERHII SHYRAN**
+### SERHII SHYRAN, 
 **CM** @ Shyran Systems
 [shyran@systems.pp.ua](mailto:shyran@systems.pp.ua)
